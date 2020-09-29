@@ -154,7 +154,7 @@ function endQuiz() {
 
         else {
             alert("Thanks for playing!")
-            window.location.href = "https://kyliemegan24.github.io/MandMs_PopQuiz/scores_index.html/"
+            window.location.href = "https://kyliemegan24.github.io/MandMs_PopQuiz/scores_index/"
         }
 
     })
