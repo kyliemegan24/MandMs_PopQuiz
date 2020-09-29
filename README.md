@@ -13,6 +13,8 @@ Usage Insturctions:
 
 1. Click the start button on the first screen. This will start the quiz. A timer will appear in the top right, beginning with 60 seconds.
 
+<img src="quiz-image-one.png">
+
 2. Choose an answer for each question. Each time you get a question wrong, you will have 5 seconds reducted from your timer.
 
 3. Submit your score to the highscores list at the end by entering your initials and clicking "submit." This will bring you to the highscores page.
