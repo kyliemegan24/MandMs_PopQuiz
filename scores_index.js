@@ -16,7 +16,7 @@ clear.addEventListener("click", function(event) {
 
     if (confirm) {
         localStorage.removeItem("highScores")
-        window.location.href = "index.html"
+        window.location.href = "https://kyliemegan24.github.io/MandMs_PopQuiz/"
     }
 
 })
